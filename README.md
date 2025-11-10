@@ -19,5 +19,3 @@ Tools Used:
 - Excel / CSV for data source
 - DAX for calculated fields and KPIs
 - Data modeling for structure and relationships
-
-![Dashboard Preview](Hospital Dashboard.jpg)

@@ -19,4 +19,4 @@ Tools Used:
 - DAX for calculated fields and KPIs
 - Data modeling for structure and relationships
 
-
+![Dashboard Preview](dashboard.jpg)
